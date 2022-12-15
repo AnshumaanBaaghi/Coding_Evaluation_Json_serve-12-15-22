@@ -1,0 +1,25 @@
+{
+  "name": "coding_evaluation_json_serve-12-15-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshumaanBaaghi/Coding_Evaluation_Json_serve-12-15-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshumaanBaaghi/Coding_Evaluation_Json_serve-12-15-22/issues"
+  },
+  "homepage": "https://github.com/AnshumaanBaaghi/Coding_Evaluation_Json_serve-12-15-22#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
